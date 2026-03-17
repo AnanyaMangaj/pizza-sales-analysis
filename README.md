@@ -91,9 +91,9 @@ python dashboard/dashboard.py
 
 ![Dashboard](images/dashboard.png)
 
-![sales by category](images/sales by category.png)
+![Revenue Analysis](images/total_revenue.png)
 
-![total pizza sold by category](images/total pizza sold by category.png)
+![Daily Orders](images/daily_orders.png)
 
 ---
 
@@ -117,3 +117,5 @@ Source: [Kaggle](https://www.kaggle.com) · Format: CSV · Contains order detail
 **Ananya Mangaj** · [GitHub](https://github.com/AnanyaMangaj)
 
 ---
+
+⭐ *If you found this useful, consider starring the repo!*
