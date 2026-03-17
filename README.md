@@ -91,9 +91,9 @@ python dashboard/dashboard.py
 
 ![Dashboard](images/dashboard.png)
 
-![Revenue Analysis](images/total_revenue.png)
+![sales by category](images/sales by category.png)
 
-![Daily Orders](images/daily_orders.png)
+![total pizza sold by category](images/total pizza sold by category.png)
 
 ---
 
