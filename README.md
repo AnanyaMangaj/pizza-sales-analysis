@@ -12,7 +12,6 @@ This project helps a pizza restaurant understand:
 - Product popularity across categories and sizes
 
 ---
-
 ## 🎯 Business Problem
 
 The restaurant wants to improve its sales strategy by answering:
