@@ -3,6 +3,7 @@
 A comprehensive data analysis project exploring pizza sales data to uncover business insights, sales trends, and customer purchasing patterns — demonstrating the **complete Data Analytics lifecycle** from data preparation through interactive dashboard development.
 
 ---
+
 ## 📌 Project Overview
 
 This project helps a pizza restaurant understand:
