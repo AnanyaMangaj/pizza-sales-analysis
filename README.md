@@ -14,7 +14,7 @@ This project helps a pizza restaurant understand:
 
 ---
 
-## 🎯 Business Problem
+## 🎯 Business Problems
 
 The restaurant wants to improve its sales strategy by answering:
 
