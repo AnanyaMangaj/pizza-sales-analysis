@@ -35,7 +35,7 @@ The restaurant wants to improve its sales strategy by answering:
 | Total Pizzas Sold | Volume of pizzas sold |
 | Avg Pizzas Per Order | Customer basket size |
 
----
+---  
 
 
 ## 📈 Analysis Performed
