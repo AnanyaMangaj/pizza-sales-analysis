@@ -12,7 +12,7 @@ This project helps a pizza restaurant understand:
 - Customer ordering behavior
 - Product popularity across categories and sizes
 
----  
+---
 
 ## 🎯 Business Problems
 
