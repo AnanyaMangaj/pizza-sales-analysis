@@ -38,7 +38,7 @@ The restaurant wants to improve its sales strategy by answering:
 ---
 
 
-## 📈 Analysis Performed 
+## 📈 Analysis Performed  
 
 **Sales Trends**
 - Daily and monthly order trends
