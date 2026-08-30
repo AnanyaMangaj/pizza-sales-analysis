@@ -23,7 +23,7 @@ The restaurant wants to improve its sales strategy by answering:
 - Which categories and sizes sell the most?
 - Which products are best — and worst — performers?
 
----
+--- 
 
 ## 📊 Key Performance Indicators (KPIs)
 
