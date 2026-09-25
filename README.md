@@ -5,7 +5,6 @@ A comprehensive data analysis project exploring pizza sales data to uncover busi
 ---  
 
 ## 📌 Project Overview   
-
 This project helps a pizza restaurant understand:
 
 - Sales performance & revenue distribution
