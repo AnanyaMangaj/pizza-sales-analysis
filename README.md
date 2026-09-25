@@ -98,9 +98,6 @@ python dashboard/dashboard.py
 ![total pizza sold by category](images/total_pizza_sold_by_category.png)
 
 
-
----
-
 ## 💡 Key Insights
 
 - Certain pizza categories drive a disproportionate share of total revenue
