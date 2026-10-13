@@ -51,7 +51,7 @@ The restaurant wants to improve its sales strategy by.     answering:
 
 ---
 
-## 🔄 Data Analytics Lifecycle
+## 🔄 Data Analytics Lifecycle.         
 
 1️⃣ Business Understanding → 2️⃣ Data Collection → 3️⃣ Data Preparation → 4️⃣ EDA → 5️⃣ KPI Analysis → 6️⃣ Dashboard Development
 
