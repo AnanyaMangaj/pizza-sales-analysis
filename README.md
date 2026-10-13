@@ -24,7 +24,7 @@ The restaurant wants to improve its sales strategy by.     answering:
 
 --- 
 
-## 📊 Key Performance Indicators (KPIs)
+## 📊 Key Performance Indicators (KPIs)          
 
 | KPI | Description |
 |-----|-------------|
