@@ -15,7 +15,7 @@ This project helps a pizza restaurant understand:
 
 ## 🎯 Business Problems.    
 
-The restaurant wants to improve its sales strategy by answering:
+The restaurant wants to improve its sales strategy by.     answering:
 
 - Which pizzas generate the most revenue?
 - When do customers place the most orders?
